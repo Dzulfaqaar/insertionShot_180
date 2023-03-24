@@ -13,5 +13,9 @@ void input() {
 		if (n <= 20) {
 			break;
 		}
+		else
+		{
+			cout << "\nArray yang anda masukkan maksimal 20 element.\n";
+		}
 	}
 }
